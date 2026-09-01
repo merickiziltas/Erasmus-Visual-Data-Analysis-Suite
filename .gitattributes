@@ -1,0 +1,7 @@
+# Ensure LF line endings for Python scripts, Jupyter Notebooks, Markdown, and configuration
+*.py text eol=lf
+*.ipynb text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
