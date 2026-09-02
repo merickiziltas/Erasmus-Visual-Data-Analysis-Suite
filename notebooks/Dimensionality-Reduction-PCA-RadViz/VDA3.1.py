@@ -1,6 +1,6 @@
 # %% [markdown]
 # #### Exercise 1
-# Hugo Lladró Prats, Inés Mang Román, Ahmet Meriç Kızıltaş
+# Ahmet Meriç Kızıltaş
 
 # %% [markdown]
 # Plotly is a plotting library with bindings for different programming languages. It enables the creation
