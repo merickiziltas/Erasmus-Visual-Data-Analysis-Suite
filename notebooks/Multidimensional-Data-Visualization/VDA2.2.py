@@ -1,6 +1,6 @@
 # %% [markdown]
 # #### Exercise 2
-# Hugo Lladró Prats, Inés Mang Román, Ahmet Meriç Kızıltaş
+# Ahmet Meriç Kızıltaş
 # 
 
 # %% [markdown]
