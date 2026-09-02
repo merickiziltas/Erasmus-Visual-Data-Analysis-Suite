@@ -103,5 +103,5 @@ jupyter notebook
 ## 👨‍💻 Author
 
 **Ahmet Meriç Kızıltaş**  
-*Erasmus+ Academic Exchange Student at University of Bonn | Boğaziçi University*  
+*Erasmus+ Academic Exchange Student at University of Bonn*  
 [Student ID: 2022400225]
