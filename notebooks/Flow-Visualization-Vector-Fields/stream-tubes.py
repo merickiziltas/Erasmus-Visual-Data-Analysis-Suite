@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@author: khatami
-"""
 # This example demonstrates the use of a single streamline and the
 # tube filter to create a streamtube.
 
