@@ -104,4 +104,4 @@ jupyter notebook
 
 **Ahmet Meriç Kızıltaş**  
 *Erasmus+ Academic Exchange Student at University of Bonn*  
-[Student ID: 2022400225]
+[Student ID: s18akizi]
